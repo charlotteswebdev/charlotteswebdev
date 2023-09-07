@@ -1,6 +1,6 @@
 - 👩🏽‍💻 Hi, I’m @charlotteswebdev
-- ⚡Career switcher, interested in full-stack development
-- 📗I’m currently learning Pytohn, JavaScript & SQL
+- ⚡Career switcher, studying full-stack development.
+- 🍁 Code First Girls Autumn alumni
 
 <!---
 charlotteswebdev/charlotteswebdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
