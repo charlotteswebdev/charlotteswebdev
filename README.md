@@ -1,5 +1,5 @@
 - 👩🏽‍💻 Hi, I’m @charlotteswebdev
-- ⚡Career switcher, studying full-stack development.
+- ⚡Career switcher, studying full-stack development
 - 🍁 Code First Girls Autumn alumni
 
 <!---
