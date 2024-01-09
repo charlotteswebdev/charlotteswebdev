@@ -4,7 +4,7 @@
 With a background in education and media, I'm an organized & creative problem solver 🎨</p>
 
 <h3 align="center"><ins>My Tech Stack:</ins></h3>
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Stack icon" width="300" margin="20"/>
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Stack icon" width="250" margin="20"/>
 <p>
   <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript Icon" width="30"/> - <strong>JavaScript:</strong> <i> React, Node.js, Express.js, Redux.js, React Testing Library, Jest </i> <br>
   <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python Icon" width="30"/> - <strong>Python:</strong> <i>Flask, unittest</i> <br>
