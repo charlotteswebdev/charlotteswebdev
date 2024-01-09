@@ -12,6 +12,6 @@
   <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="SQL Icon" width="30"/> - <strong>SQL</strong>
 </p>
 
-<a href="mailto:charlottevmcknight@gmail.com?subject=Hello, Charlotte"><img align="right" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+<a href="mailto:charlottevmcknight@gmail.com?subject=Hi Charlotte, let's connect"><img align="right" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 <a href="https://www.linkedin.com/in/charlottevmcknight"><img align="right" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
