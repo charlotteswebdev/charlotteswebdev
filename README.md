@@ -1,4 +1,4 @@
-<h2 align="center"><b>Hello, I'm Charlotte! 👩🏽‍💻</b></h2>
+<h2 align="center"><b>Hello, I'm Charlotte! 👩🏾‍💻</b></h2>
 
 <p align="center"> A <b>Full Stack</b> Developer and <b>Code First Girls</b> graduate. I'm an organised & creative problem solver 🎨 <b>Let's Connect!</b></p>
 
