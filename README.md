@@ -1,10 +1,10 @@
-# <h1 align="center"><b>Hello, I'm Charlotte! 👩🏽‍💻</b></h1>
+# <h2 align="center"><b>Hello, I'm Charlotte! 👩🏽‍💻</b></h2>
 
 <p> A junior <b>full stack</b> developer and <b>Code First Girls</b> graduate from Belfast, Northern Ireland. ☘️</p>
 <p>With a background in education and media, I'm an organized and creative problem solver 🗂️🎨</p>
 
 <div>
-<img align="left" src="https://img.freepik.com/free-photo/ai-generated-image-banana_23-2150683177.jpg?t=st=1704831372~exp=1704834972~hmac=a4e124970f6fcacb7c9c93f9654d527cc2f43a63f5deeaba291345723e62ef97&w=1060" alt="Pancake stack" width="350" margin="20"/>
+<img align="left" src="https://img.freepik.com/free-photo/ai-generated-image-banana_23-2150683177.jpg?t=st=1704831372~exp=1704834972~hmac=a4e124970f6fcacb7c9c93f9654d527cc2f43a63f5deeaba291345723e62ef97&w=1060" alt="Pancake stack" width="250" margin="20"/>
 <h3>My Tech Stack:</h3>
 <p>  
   - <strong>JavaScript:</strong> <i> React, Node.js, Express.js, React Testing Library, Jest, Typescript.js </i> <br>
