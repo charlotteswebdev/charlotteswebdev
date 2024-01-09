@@ -1,6 +1,6 @@
 <h2 align="center"><b>Hello, I'm Charlotte! 👩🏽‍💻</b></h2>
 
-<p align="center"> A <b>Full Stack</b> Developer and <b>Code First Girls</b> graduate. I'm an organised & creative problem solver 🎨 Let's Connect! </p>
+<p align="center"> A <b>Full Stack</b> Developer and <b>Code First Girls</b> graduate. I'm an organised & creative problem solver 🎨 <ins>Let's Connect!</ins> </p>
 
 <h3 align="center"><ins>My Tech Stack:</ins></h3>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Stack icon" width="200" margin="20"/>
