@@ -2,7 +2,6 @@
 
 <p align="center"> A <b>Full Stack</b> Developer and <b>Code First Girls</b> graduate. I'm an organised & creative problem solver 🎨 <b>Let's Connect!</b></p>
 
-<h3 align="center"><ins>My Tech Stack:</ins></h3>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Stack icon" height="180" margin="20"/>
 <p>
   <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript Icon" width="30"/> - <strong>JavaScript:</strong> <i> React, Node.js, Express.js, Redux.js, React Testing Library, Jest </i> <br>
